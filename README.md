@@ -1,5 +1,6 @@
 # Input-monitoring-tool
 Input Monitoring Tool
+Author :- NIshanth
 Project Description:
 The Input Monitoring Tool is a Python-based application that monitors and logs keyboard and mouse inputs in real-time. It captures keystrokes and mouse movements, storing them for analysis or auditing purposes. This tool can be useful for monitoring user activity, debugging applications, or understanding user behavior.
 
